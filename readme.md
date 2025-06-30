@@ -17,4 +17,4 @@ Criar um programa em Python para calcular o IMC e utilizar o Git e o GitHub para
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/imc.git
+git clone https://github.com/inver-hellfire/imc.git
